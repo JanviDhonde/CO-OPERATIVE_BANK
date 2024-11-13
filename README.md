@@ -1,5 +1,5 @@
 ## CO-OPERATIVE BANK
-Build a responsive Bank Management System for a Co-operative Bank to efficiently track banking processes, transactions, and customer property details. The system is developed using JAVA for the application, MYSQL for the database, and XAMPP for the local server. It includes admin and customer interfaces for seamless management.
+Build a responsive Bank Management System for a Co-operative Bank to efficiently track banking processes, transactions, and customer property details. The system is developed using JAVA for the application, MYSQL for the database, and XAMPP for the local server. It includes admin and customer interfaces for seamless management..
 
 ### Co-Operative Banking System
 ### Introduction
